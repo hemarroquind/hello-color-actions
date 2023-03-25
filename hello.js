@@ -1,2 +1,2 @@
-const hello = () => "Hola mundo desde México";
+const hello = () => "Hola mundo desde Mexico";
 console.log(hello());
